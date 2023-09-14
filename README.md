@@ -13,3 +13,4 @@
 - Soon Leung Isaac 2200578
 
 ## License
+Copyright © 2023. Singapore Institute of Technology
